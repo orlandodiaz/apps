@@ -1,0 +1,11 @@
+# Must intall apps
+- IntelliJ, PyCharm ,etc
+- iTerm
+- IINA
+
+
+# Obstrusive apps
+Thee are applications which downright open on startup without asking for permission for first
+
+- Spotify
+- 
